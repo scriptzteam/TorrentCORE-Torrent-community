@@ -7,7 +7,8 @@ x[BiT] - Torrents &amp; Magnets Indexer
  |_   _|  _  |  |   _|
  |__.__|_____|__|____|
  
-13-Feb-2o21 - Crashed hdd db, moved to nvme, but lost all magnets, that´s life ^^ - NOT lost ;) its already on https://xbit.pw/archive (35 821 742)
+13-Feb-2o21 - Crashed hdd db, moved to nvme, but lost all magnets, that´s life ^^ 
+P.S.: NOT lost ;) its already on https://xbit.pw/archive (35 821 742)
 
 xBiT does not host or store any illegal contents on its servers. 
 All this website does is present information that was collected across 
