@@ -1,6 +1,8 @@
 # x[BiT] - Torrents-Magnets-Indexer
 x[BiT] - Torrents &amp; Magnets Indexer
 
+Update: temporary moved to https://torrentcore.xyz/index, x[BiT] will come back online soon too.
+
 ```
         __    __ __   
  .--.--|  |--|__|  |_ 
