@@ -1,4 +1,4 @@
-# x[BiT] - Torrents-Magnets-Indexer
-x[BiT] - Torrents &amp; Magnets Indexer
+# Torrent[CORE] - Torrent community.
+Torrent[CORE] - Torrent community.
 
-Update: Moved to https://torrentcore.xyz/index
+https://torrentcore.xyz/index
